@@ -1,13 +1,17 @@
 
 html{
     scroll-behavior: smooth;
+    height: 100%;
 }
 
 body{
+    display: flex;
+    flex-direction: column;
     margin: 0;
     padding: 0;
     font-style: 16px;
-    font-family: 'Barlow', sans-serif, monospace
+    font-family: __________________________;
+    height: 100%;
 }
 
 *,
